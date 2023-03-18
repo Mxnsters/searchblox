@@ -1,8 +1,8 @@
 # Searchblox
 
-Update 1.03
+Not Official Version
 
-Faster Speed
-Minor UI changes
-New domain
-Less Errors
+Fixed Version
+
+OFFICIAL DISCORD: https://discord.gg/jUQ3Ve4AAM
+OFFICIAL GITHUB: https://github.com/searchbloxv2/Searchblox
